@@ -1,0 +1,11 @@
+.login-card {
+  width: 400px;
+  margin: 100px auto;
+  padding: 20px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+.full-width {
+  width: 100%;
+  margin-bottom: 15px;
+}
